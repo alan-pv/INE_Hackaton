@@ -1,0 +1,5 @@
+escenario,celdas_escenario,celdas_comunes,ARI_ponderado,ARI_sin_reajustar,regla_global,regla_global_pesos_escenario,iteraciones,convergio,logL_inicial,logL,seg
+principal,472539,472539,0.99999,1.00000,SÍ,SÍ,1,True,-4495183.73660,-4495183.73621,3.07908
+concurrencia,471026,453180,0.87112,0.93749,SÍ,SÍ,121,True,-4466056.72075,-4463337.58621,63.92683
+ns_voto,480697,439714,0.83357,0.90013,SÍ,SÍ,115,True,-4594137.36715,-4592215.12718,62.40189
+ns_abst,460311,424088,0.57026,0.89536,SÍ,SÍ,158,True,-4476368.50832,-4452154.71133,81.91098
