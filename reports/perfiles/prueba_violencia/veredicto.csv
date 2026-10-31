@@ -1,0 +1,2 @@
+modelo,delta_AUC,IC95_inf,IC95_sup,IC_por_encima_de_0,estabilidad_fpc_y_p,veredicto
+mezcla K=4,-0.00533,-0.00641,-0.00423,False,sí,queda como descriptor

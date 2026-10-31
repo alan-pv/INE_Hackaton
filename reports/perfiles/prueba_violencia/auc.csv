@@ -1,0 +1,7 @@
+universo,metodo,AUC_pos,celdas
+solo celdas con historial 2009-21,historial propio,0.75909,788460
+solo celdas con historial 2009-21,mezcla sin violencia,0.72971,788460
+solo celdas con historial 2009-21,mezcla con violencia,0.72438,788460
+todas las celdas con 2024,historial propio,0.69198,958098
+todas las celdas con 2024,mezcla sin violencia,0.68917,958098
+todas las celdas con 2024,mezcla con violencia,0.68489,958098

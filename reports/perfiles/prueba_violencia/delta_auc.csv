@@ -1,0 +1,7 @@
+universo,comparacion,AUC_1,AUC_2,delta_AUC,IC95_inf,IC95_sup,excluye_0,B,seg,media_replicas
+solo celdas con historial 2009-21,(i) mezcla con − mezcla sin,0.72438,0.72971,-0.00533,-0.00641,-0.00423,True,1999,133.39942,-0.00533
+solo celdas con historial 2009-21,(ii) historial propio − mezcla sin,0.75909,0.72971,0.02938,0.02835,0.03038,True,1999,281.71643,0.02938
+solo celdas con historial 2009-21,(ii) historial propio − mezcla con,0.75909,0.72438,0.03471,0.03353,0.03582,True,1999,275.33313,0.03470
+todas las celdas con 2024,(i) mezcla con − mezcla sin,0.68489,0.68917,-0.00429,-0.00513,-0.00337,True,1999,161.50829,-0.00427
+todas las celdas con 2024,(ii) historial propio − mezcla sin,0.69198,0.68917,0.00281,0.00158,0.00408,True,1999,302.73015,0.00282
+todas las celdas con 2024,(ii) historial propio − mezcla con,0.69198,0.68489,0.00709,0.00573,0.00848,True,1999,300.45551,0.00709
