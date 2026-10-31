@@ -12,7 +12,7 @@ docs/
   ARQUITECTURA.md      este documento
   METODOLOGIA.md       el método y cada decisión D-xxx que cita el código
   DATOS.md             fuentes, enlaces de descarga y dónde va cada archivo
-src/ine_perfiles/      paquete con la lógica reutilizable (probada en tests/)
+src/                   paquete ine_perfiles con la lógica reutilizable (probada en tests/); ver src/README.md
 scripts/               puntos de entrada, agrupados por etapa
   datos/  preparacion/  perfiles/  validacion/  figuras/
 tests/                 pruebas (pytest)
@@ -81,20 +81,7 @@ Cada etapa también se corre sola (`make datos`, `make perfiles`, etc.), y cada 
 
 ## Paquete `src/ine_perfiles/`
 
-| Módulo | Contenido |
-|---|---|
-| `config.py` | Rutas, elecciones, parámetros del método (cada uno con su `# D-xxx`) y cifras de control |
-| `ingesta.py`, `limpieza.py`, `territorio.py`, `externos.py`, `violencia.py` | Lectura y limpieza de la CCPC y de las fuentes externas |
-| `edades.py` | Regresión segmentada para los grupos de edad |
-| `cohortes.py` | Construcción del panel de cohortes |
-| `descriptores.py` | Contexto de sección, movilidad y cuantiles ponderados |
-| `brecha.py` | Lo esperado, la contracción beta-binomial y la población objetivo |
-| `mezcla_mixta.py` | Mezcla de clases latentes con variables mixtas (EM, reinicios, criterios, PCA ponderado, Horn) |
-| `seleccion.py` | Datos de la mezcla, ajuste, bootstrap, prueba contra el azar y descripción de perfiles; lo comparten los scripts de perfiles |
-| `estabilidad.py` | Bootstrap de secciones estratificado por estado y Jaccard por perfil |
-| `evaluacion.py` | ARI ponderado, reetiquetado, curva de captura, ΔAUC con bootstrap pareado y regla de perfiles claros |
-| `sensibilidad.py` | Escenarios de concurrencia y NS |
-| `lecturas.py` | Contrastes y asociaciones de las pruebas de las lecturas |
+La lógica reutilizable vive en el paquete `ine_perfiles`; los scripts solo la llaman en orden. La descripción de cada módulo está en [`src/README.md`](../src/README.md).
 
 ## Cifras de control
 
