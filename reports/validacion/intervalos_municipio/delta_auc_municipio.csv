@@ -1,0 +1,7 @@
+universo,comparacion,AUC_1,AUC_2,delta_AUC,IC95_secc_inf,IC95_secc_sup,IC95_mpio_inf,IC95_mpio_sup,excluye_0_mpio,ancho_mpio_sobre_secc,n_municipios,B,seg_mpio
+solo celdas con historial 2009-21,historial − K5,0.75909,0.72003,0.03906,0.03784,0.04026,0.03398,0.04415,True,4.19956,2464,1999,143.91186
+solo celdas con historial 2009-21,K5 − K4,0.72003,0.72971,-0.00968,-0.01059,-0.00877,-0.01301,-0.00636,True,3.64919,2464,1999,54.31485
+solo celdas con historial 2009-21,K5 − línea base,0.72003,0.67180,0.04823,0.04691,0.04957,0.03985,0.05742,True,6.60582,2464,1999,58.01569
+todas las celdas con 2024,historial − K5,0.69198,0.68140,0.01058,0.00923,0.01201,0.00626,0.01553,True,3.34033,2465,1999,222.21789
+todas las celdas con 2024,K5 − K4,0.68140,0.68917,-0.00778,-0.00847,-0.00703,-0.01065,-0.00515,True,3.80766,2465,1999,117.73559
+todas las celdas con 2024,K5 − línea base,0.68140,0.64264,0.03876,0.03769,0.03987,0.03206,0.04556,True,6.18582,2465,1999,109.53663

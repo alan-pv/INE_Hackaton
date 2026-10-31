@@ -1,0 +1,9 @@
+universo,metodo,AUC_pos,AUC_signo,celdas
+solo celdas con historial 2009-21,historial propio,0.75909,0.50114,788460
+solo celdas con historial 2009-21,mezcla K=5 (2009-21),0.72003,0.40378,788460
+solo celdas con historial 2009-21,mezcla K=4 (2009-21),0.72971,0.41229,788460
+solo celdas con historial 2009-21,línea base objetivo_0921 sí/no,0.67180,0.34218,788460
+todas las celdas con 2024,historial propio,0.69198,0.40122,958098
+todas las celdas con 2024,mezcla K=5 (2009-21),0.68140,0.35901,958098
+todas las celdas con 2024,mezcla K=4 (2009-21),0.68917,0.36584,958098
+todas las celdas con 2024,línea base objetivo_0921 sí/no,0.64264,0.30950,958098

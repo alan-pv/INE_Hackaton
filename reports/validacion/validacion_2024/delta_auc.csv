@@ -1,0 +1,5 @@
+universo,comparacion,AUC_1,AUC_2,delta_AUC,IC95_inf,IC95_sup,excluye_0,B,seg,media_replicas
+solo celdas con historial 2009-21,(a) historial propio − K5,0.75909,0.72003,0.03906,0.03784,0.04026,True,1999,236.31254,0.03905
+solo celdas con historial 2009-21,(b) K5 − K4,0.72003,0.72971,-0.00968,-0.01059,-0.00877,True,1999,146.26006,-0.00968
+todas las celdas con 2024,(a) historial propio − K5,0.69198,0.68140,0.01058,0.00923,0.01201,True,1999,246.25224,0.01059
+todas las celdas con 2024,(b) K5 − K4,0.68140,0.68917,-0.00778,-0.00847,-0.00703,True,1999,167.04590,-0.00777
