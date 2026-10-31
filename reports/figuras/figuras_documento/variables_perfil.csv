@@ -1,0 +1,21 @@
+bloque,variable,tipo,P1,P2,P3,P4,P5
+Sexo,Mujeres,razon,1.0387,1.0032,0.82,1.1322,0.9784
+Edad,18–19,razon,1.2627,0.555,1.0508,0.8427,1.6202
+Edad,20–24,razon,1.2756,0.5646,1.0006,0.8675,1.603
+Edad,25–31,razon,1.1878,0.8009,0.8958,0.9879,1.1856
+Edad,32–46,razon,1.0149,1.1352,0.8384,1.0411,0.7947
+Edad,47–69,razon,0.9257,1.1313,0.987,1.1031,0.6969
+Edad,70–79,razon,0.6992,0.9962,1.5221,0.9267,1.122
+Edad,80+,razon,0.4014,1.0944,1.8104,0.5624,1.9408
+Circunscripción,Circunscripción 1,razon,1.6279,0.4052,0.4851,1.6864,0.4011
+Circunscripción,Circunscripción 2,razon,1.2387,0.7284,1.5323,0.8676,0.1583
+Circunscripción,Circunscripción 3,razon,0.2507,1.2554,0.7468,0.7546,3.7805
+Circunscripción,Circunscripción 4,razon,0.2347,2.2796,1.0147,0.0967,1.4317
+Circunscripción,Circunscripción 5,razon,0.4694,1.5467,1.8462,0.4777,0.4317
+Tipo de sección,Urbana,razon,1.169,1.3003,0.4101,1.1801,0.3812
+Tipo de sección,Mixta,razon,0.9955,0.3512,1.6836,0.9683,1.6349
+Tipo de sección,Rural,razon,0.1272,0.0324,3.4388,0.0945,3.6332
+Brecha,δ̃ (más negativa = más severa),z,-0.2937,0.7253,-0.0973,-0.2386,-0.5286
+Contexto,CP1 · rezago educativo y de acceso (+ = más),z,-0.2615,-0.3474,0.9098,-0.8281,1.6279
+Contexto,CP2 · población mayor (+) o joven (−),z,-0.3462,0.3995,0.4629,-0.5268,0.0261
+Contexto,CP3 · lengua indígena y migración (+),z,-0.5131,0.1557,-0.8224,0.7851,1.5164

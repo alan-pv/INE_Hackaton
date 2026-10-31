@@ -1,0 +1,14 @@
+bloque,id,prueba,P1,P2,P3,P4,P5
+En el tiempo (puntos),T01,La brecha se agrava (por elección),✓ −1.2 *,✗ +0.3,✓ −0.6,○ +0.1,✗ +0.4
+En el tiempo (puntos),T02,Más profunda en las intermedias,✗ +1.2,✓ −3.4 *,✗ +2.8,✓ −2.7,○ −0.1
+Dentro de la misma sección (diferencia de brecha),T03,Hombres 25–46 más abajo que mujeres 25–46,✗ +0.05,✗ +0.04,✓ −0.18 *,✗ +0.13,○ −0.04
+Dentro de la misma sección (diferencia de brecha),T04,Jóvenes 18–24 más abajo que adultos 32–69,✓ −0.06,? +0.11,? −0.02,? +0.07,✓ −0.18 *
+Dentro de la misma sección (diferencia de brecha),T05,Personas de 80+ más abajo que adultos 32–69,? +0.14,? +0.10,? +0.04,? +0.15,? −0.02 *
+Dentro de la misma sección (diferencia de brecha),T06,Adultos 25–46 más abajo que adultos 47–69,✓ −0.04,? −0.01,? +0.02,? +0.07 *,✓ −0.07
+"Entre sus secciones, más profunda donde… (correlación)",T07,…más gente nació en otra entidad,✓ −0.29 *,○ +0.10,✗ +0.07,✓ −0.21 *,✗ +0.12
+"Entre sus secciones, más profunda donde… (correlación)",T08,…llegan más electores,✓ −0.16 *,○ −0.05,○ −0.06,○ −0.07 *,○ −0.05
+"Entre sus secciones, más profunda donde… (correlación)",T09,…más se habla lengua indígena,✓ −0.29,✓ −0.11,○ −0.01,✓ −0.22,✓ −0.15 *
+"Entre sus secciones, más profunda donde… (correlación)",T10,…hay menos internet,✓ −0.19,✓ −0.34,○ +0.03,✓ −0.43,✓ −0.14 *
+"Entre sus secciones, más profunda donde… (correlación)",T11,…hay más migración a EE. UU.,○ +0.00,✓ −0.15,○ +0.06 *,✓ −0.20,✓ −0.16
+Otras,T12,Más electores registrados que adultos (razón),✗ −0.04,✓ +0.02,✓ +0.05 *,✗ −0.10,○ +0.01
+Otras,T13,Más profunda en secciones rurales que urbanas,○ +0.00,○ +0.00,✗ +0.05,○ −0.05,○ −0.03 *

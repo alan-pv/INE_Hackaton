@@ -1,0 +1,56 @@
+perfil,descriptor,columna,mediana_perfil,mediana_objetivo,percentil_perfil_en_objetivo,percentil_objetivo_en_objetivo
+P1,Escolaridad (años),graproes,9.22,9.24,49.28067,50.00491
+P1,Hogares con internet,prop_internet,0.54525,0.53272,52.76957,49.99629
+P1,Habla lengua indígena,prop_hli,0.00508,0.00667,43.14251,50.00592
+P1,Nacidos en otra entidad,prop_nacida_otra_ent,0.13988,0.13554,50.8912,50.0008
+P1,Lista nominal / pob. 18+,razon_ln_p18,1.07001,1.10657,41.87686,49.99933
+P1,Baja intens. migratoria,iim_dp2,64.07081,64.07081,49.83927,49.83927
+P1,Baja marginación,im_2020,59.38499,59.06768,64.62838,51.12864
+P1,Movilidad,pctl_mov_estado,72.85415,62.0155,60.10776,49.99616
+P1,Tienen 18–24 años,prop_18a24,0.19317,0.17978,67.15161,49.99701
+P1,Tienen 60 años o más,prop_60ymas,0.11331,0.1445,32.10131,49.99808
+P1,Tasa de homicidio,tasa,24.36093,21.76157,55.16743,50.00607
+P2,Escolaridad (años),graproes,9.84,9.24,66.62805,50.00491
+P2,Hogares con internet,prop_internet,0.59036,0.53272,62.37309,49.99629
+P2,Habla lengua indígena,prop_hli,0.01017,0.00667,60.70715,50.00592
+P2,Nacidos en otra entidad,prop_nacida_otra_ent,0.15477,0.13554,54.19978,50.0008
+P2,Lista nominal / pob. 18+,razon_ln_p18,1.12326,1.10657,54.05626,49.99933
+P2,Baja intens. migratoria,iim_dp2,64.60195,64.07081,72.20352,49.83927
+P2,Baja marginación,im_2020,59.07934,59.06768,54.30205,51.12864
+P2,Movilidad,pctl_mov_estado,38.59459,62.0155,30.45078,49.99616
+P2,Tienen 18–24 años,prop_18a24,0.16614,0.17978,33.32842,49.99701
+P2,Tienen 60 años o más,prop_60ymas,0.17202,0.1445,63.59007,49.99808
+P2,Tasa de homicidio,tasa,16.7626,21.76157,37.34047,50.00607
+P3,Escolaridad (años),graproes,7.46,9.24,14.89635,50.00491
+P3,Hogares con internet,prop_internet,0.26184,0.53272,16.18232,49.99629
+P3,Habla lengua indígena,prop_hli,0.00172,0.00667,22.33359,50.00592
+P3,Nacidos en otra entidad,prop_nacida_otra_ent,0.04876,0.13554,17.51831,50.0008
+P3,Lista nominal / pob. 18+,razon_ln_p18,1.15934,1.10657,61.6998,49.99933
+P3,Baja intens. migratoria,iim_dp2,62.88024,64.07081,15.61352,49.83927
+P3,Baja marginación,im_2020,56.4366,59.06768,18.80553,51.12864
+P3,Movilidad,pctl_mov_estado,65.76378,62.0155,53.27292,49.99616
+P3,Tienen 18–24 años,prop_18a24,0.18005,0.17978,50.24726,49.99701
+P3,Tienen 60 años o más,prop_60ymas,0.177,0.1445,65.72056,49.99808
+P3,Tasa de homicidio,tasa,24.30796,21.76157,54.10867,50.00607
+P4,Escolaridad (años),graproes,10.31,9.24,77.35782,50.00491
+P4,Hogares con internet,prop_internet,0.68052,0.53272,81.49795,49.99629
+P4,Habla lengua indígena,prop_hli,0.00743,0.00667,52.6552,50.00592
+P4,Nacidos en otra entidad,prop_nacida_otra_ent,0.3603,0.13554,84.14214,50.0008
+P4,Lista nominal / pob. 18+,razon_ln_p18,1.04958,1.10657,37.53018,49.99933
+P4,Baja intens. migratoria,iim_dp2,64.01601,64.07081,45.80599,49.83927
+P4,Baja marginación,im_2020,59.14029,59.06768,57.94601,51.12864
+P4,Movilidad,pctl_mov_estado,70.27027,62.0155,57.53172,49.99616
+P4,Tienen 18–24 años,prop_18a24,0.17635,0.17978,45.54817,49.99701
+P4,Tienen 60 años o más,prop_60ymas,0.09829,0.1445,23.64663,49.99808
+P4,Tasa de homicidio,tasa,25.78523,21.76157,58.31576,50.00607
+P5,Escolaridad (años),graproes,6.7,9.24,8.66806,50.00491
+P5,Hogares con internet,prop_internet,0.15614,0.53272,9.58176,49.99629
+P5,Habla lengua indígena,prop_hli,0.10282,0.00667,93.22409,50.00592
+P5,Nacidos en otra entidad,prop_nacida_otra_ent,0.03926,0.13554,13.3482,50.0008
+P5,Lista nominal / pob. 18+,razon_ln_p18,1.12096,1.10657,53.47376,49.99933
+P5,Baja intens. migratoria,iim_dp2,64.14355,64.07081,54.08155,49.83927
+P5,Baja marginación,im_2020,52.90588,59.06768,5.49546,51.12864
+P5,Movilidad,pctl_mov_estado,71.16822,62.0155,58.46475,49.99616
+P5,Tienen 18–24 años,prop_18a24,0.17647,0.17978,45.71319,49.99701
+P5,Tienen 60 años o más,prop_60ymas,0.16904,0.1445,62.20874,49.99808
+P5,Tasa de homicidio,tasa,17.13534,21.76157,38.47246,50.00607
