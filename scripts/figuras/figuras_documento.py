@@ -63,11 +63,11 @@ def ctrl(nombre, valor, esperado=None, tol=None):
 
 
 def guardar(fig, nombre, png=False):
-    """PDF vectorial; los mapas van en PNG a 300 dpi porque el PDF vectorial pesa más de 2 MB."""
-    if png:
-        fig.savefig(OUT / f"{nombre}.png", dpi=300)
-    else:
+    """Las gráficas van en PDF vectorial (documento) y en PNG (README); los mapas solo en PNG a 300 dpi,
+    porque el PDF vectorial pesa más de 2 MB."""
+    if not png:
         fig.savefig(OUT / f"{nombre}.pdf")
+    fig.savefig(OUT / f"{nombre}.png", dpi=300)
     plt.close(fig)
 
 
