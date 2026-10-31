@@ -1,0 +1,18 @@
+[project]
+name = "ine-perfiles"
+version = "0.1.0"
+description = "Los votos que faltan: perfiles de quienes votan menos de lo esperado (Hackathon INE 2026, Reto 1, CCPC 2009-2024)"
+requires-python = ">=3.12"
+dependencies = [
+  "duckdb>=1.1", "pandas>=2.2", "pyarrow>=16", "numpy>=1.26", "scipy>=1.13",
+  "scikit-learn>=1.5", "joblib>=1.4", "matplotlib>=3.9", "geopandas>=1.0", "openpyxl>=3.1",
+]
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+[tool.setuptools.packages.find]
+where = ["src"]
+[tool.pytest.ini_options]
+testpaths = ["tests"]

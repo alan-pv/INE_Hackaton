@@ -1,0 +1,26 @@
+# entorno
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# datos: descargas originales, intermedios y tablas por celda (pesan GB y las celdas no se publican, D-005)
+data/raw/*
+!data/raw/ccpc/
+data/raw/ccpc/*
+!data/raw/ccpc/SHA256SUMS
+!data/raw/externos/
+data/raw/externos/*
+!data/raw/externos/concurrencia/
+data/interim/
+data/processed/*
+!data/processed/cortes_edad.json
+data/_archivo/
+*.duckdb
+*.duckdb.wal
+
+# material local que no forma parte de la entrega
+_archivo/
+entregables/cartas/
