@@ -31,7 +31,7 @@ make instalar          # crea .venv e instala el paquete (requiere uv)
 make todo              # datos → preparacion → perfiles → validacion → figuras → pruebas
 ```
 
-Cada etapa también se corre sola (`make datos`, `make perfiles`, etc.), y cada script se puede ejecutar directamente con `.venv/bin/python scripts/<etapa>/<nombre>.py`. Sin caché, la etapa de perfiles tarda varias horas (los ajustes, el bootstrap y las permutaciones); con caché, la cadena completa tarda unos minutos.
+Cada etapa también se corre sola (`make datos`, `make perfiles`, etc.), y cada script se puede ejecutar directamente con `.venv/bin/python scripts/<etapa>/<nombre>.py` (en Windows, `.venv\Scripts\python`). Sin caché, la etapa de perfiles tarda varias horas (los ajustes, el bootstrap y las permutaciones); con caché, la cadena completa tarda unos minutos.
 
 ## Cadena de scripts
 

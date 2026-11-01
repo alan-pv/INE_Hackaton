@@ -2,7 +2,12 @@
 # Uso: make todo   (o una etapa: make datos, make preparacion, make perfiles, make validacion, make figuras)
 # Detalle de cada script, sus entradas y salidas: docs/ARQUITECTURA.md
 
+# Ruta del Python del entorno: .venv/Scripts en Windows, .venv/bin en Linux y macOS
+ifeq ($(OS),Windows_NT)
+PY ?= .venv/Scripts/python
+else
 PY ?= .venv/bin/python
+endif
 
 .PHONY: todo instalar datos preparacion perfiles validacion figuras pruebas
 
